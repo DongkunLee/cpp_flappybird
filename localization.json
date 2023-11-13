@@ -1,0 +1,26 @@
+{
+    "en": {
+        "Load": "Load",
+        "Log": "Log",
+        "MainMenu": "MainMenu",
+        "Save": "Save",
+        "Settings": "Settings",
+        "SettingsScreen": "Settings Screen",
+        "Start": "Start",
+        "Title": "DK Flappy Bird!",
+        "Volume": "Volume",
+        "Exit": "Exit"
+    },
+    "ko": {
+        "Load": "불러오기",
+        "Log": "로그기록",
+        "MainMenu": "메인메뉴",
+        "Save": "저장하기",
+        "Settings": "환경설정",
+        "SettingsScreen": "환결설정 화면",
+        "Start": "시작하기",
+        "Title": "DK 플래피 버드!",
+        "Volume": "볼륨",
+        "Exit": "끝내기"
+    }
+}
